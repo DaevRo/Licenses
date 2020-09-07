@@ -2,17 +2,24 @@
 <h2>MIT License</h2>
 <p>A simple license with very open permissions which has conditions that only require the preservation of copyright and license notices. Modifications and larger work may be distributed under different terms without a source code.</p>
 <h3>Permissions</h3>
+
 * Commericial Use
 * Distribution
 * Modification
 * Private use
+
 <h3>Conditions</h3>
-<p>* License and copyright notice</p>
+
+* License and copyright notice
+
 <h3>Limitations</h3>
-<p>* Liability
-* Warranty</p>
+
+* Liability
+* Warranty 
+
 <h2>License template</h2>
 <p>MIT License
+
 
 Copyright (c) [year] [fullname]
 
